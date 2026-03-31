@@ -1,7 +1,7 @@
 # VendorIQ – AI Vendor Intelligence Platform
 
 ## Overview
-VendorIQ is an AI-powered platform designed to analyze vendor performance, predict risks, and enable business users to interact with vendor data through natural language queries.
+VendorIQ is an AI-powered platform that analyzes vendor performance, predicts risks, and allows users to query insights using natural language.
 
 ## Live Demo
 https://supply-intel-3.emergent.host
@@ -10,37 +10,39 @@ https://supply-intel-3.emergent.host
 - Vendor Performance Dashboard (Revenue, Growth, Score)
 - AI Insights (Strengths, Risks, Opportunities)
 - Vendor Risk Predictor (Low / Medium / High)
-- Conversational AI Assistant (Ask business questions)
-- Admin Login System
+- Conversational AI Assistant
+- Admin Login
 
 ## Sample Credentials
 Email: admin@vendorpro.com  
 Password: admin123
 
 ## Problem Solved
-Organizations struggle to:
-- Monitor vendor performance effectively
-- Identify high-risk vendors early
-- Derive actionable insights from data
-
-VendorIQ solves this by combining analytics + AI-driven decision support.
+Traditional vendor management systems rely heavily on manual reporting and lack predictive insights. VendorIQ introduces AI-driven analytics and decision support.
 
 ## My Role
-- Designed product concept based on real-world vendor management use cases
-- Defined features, workflows, and business logic
-- Built and deployed working prototype using AI-driven development tools
-- Implemented AI insights, risk prediction, and chat-based interaction
+- Identified real-world vendor management challenges
+- Designed end-to-end AI product solution
+- Built and deployed working prototype
+- Implemented AI-based insights, risk prediction, and chat interface
+
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### AI Chat
+![AI Chat](ai-chat.png)
+
+### Risk Prediction
+![Risk](risk.png)
 
 ## Tech Stack
 - No-code AI platform (Emergent)
 - AI model integration
-- Web-based dashboard UI
+- Web-based dashboard
 
 ## Future Enhancements
-- Multi-user role management
-- Vendor comparison view
-- Export reports (PDF/Excel)
-- Historical analytics
-
-## Screenshots
-(Add your screenshots here)
+- Multi-user roles
+- Export reports
+- Advanced analytics
